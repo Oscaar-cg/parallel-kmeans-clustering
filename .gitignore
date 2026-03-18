@@ -1,4 +1,9 @@
+# Build files
 *.exe
 *.out
+
+# Build folders
 build/
+
+# VS Code settings
 .vscode/
